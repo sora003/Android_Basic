@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout4</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_bt1">1</string>
+    <string name="text_bt2">2</string>
+    <string name="text_bt3">3</string>
+</resources>
